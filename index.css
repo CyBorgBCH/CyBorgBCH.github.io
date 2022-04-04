@@ -34,6 +34,8 @@ body {
 .content h2:nth-child(2) {
   color: #03a9f4;
   animation: animate 4s ease-in-out infinite;
+  align-item: center;
+  justify-content: center;
 }
 
 @keyframes animate {
